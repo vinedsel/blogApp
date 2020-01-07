@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/vinedsel/blogApp/issues"
   },
-  "homepage": "https://github.com/vinedsel/blogApp#readme"
+  "homepage": "https://github.com/vinedsel/blogApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
